@@ -28,7 +28,7 @@
 proved to be invalid for other exponents. 
 Meaning the next equation has no integer solutions:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\[&space;x^n&space;&plus;&space;y^n&space;=&space;z^n&space;\]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\[&space;x^n&space;&plus;&space;y^n&space;=&space;z^n&space;\]" title="\[ x^n + y^n = z^n \]" /></a>
+        <a href="https://www.codecogs.com/eqnedit.php?latex=\[&space;x^n&space;&plus;&space;y^n&space;=&space;z^n&space;\]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\[&space;x^n&space;&plus;&space;y^n&space;=&space;z^n&space;\]" title="\[ x^n + y^n = z^n \]" /></a>
 
 
 ```
