@@ -6,7 +6,7 @@
 | **Name** | **Surname** |
 | Irem | Hatipoglu |
 
-**Link:** *https://github.com/iremhatipoglu/Irem-Hatipoglu-SBS/blob/master/README.md#irem-hatipoglu-sbs*
+**Link:** *https://github.com/iremhatipoglu*
 
 # Markdown Document List
 
