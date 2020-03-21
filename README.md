@@ -19,7 +19,7 @@
     fonts
  7. Equation.
 
-## Equations
+## Equation
 
  - In physics, the mass-energy equivalence is stated  by the equation
    <a href="https://www.codecogs.com/eqnedit.php?latex=$E=mc^2$" target="_blank"><img src="https://latex.codecogs.com/svg.latex?$E=mc^2$" title="$E=mc^2$" /></a>, discovered in 1905 by Albert Einstein.
