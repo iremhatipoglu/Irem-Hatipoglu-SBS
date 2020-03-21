@@ -21,8 +21,8 @@
 
 ## Equations
 
- - <a href="https://www.codecogs.com/eqnedit.php?latex=In&space;physics,&space;the&space;mass-energy&space;equivalence&space;is&space;stated&space;by&space;the&space;equation&space;$E=mc^2$,&space;discovered&space;in&space;1905&space;by&space;Albert&space;Einstein." target="_blank"><img src="https://latex.codecogs.com/svg.latex?In&space;physics,&space;the&space;mass-energy&space;equivalence&space;is&space;stated&space;by&space;the&space;equation&space;$E=mc^2$,&space;discovered&space;in&space;1905&space;by&space;Albert&space;Einstein." title="In physics, the mass-energy equivalence is stated by the equation $E=mc^2$, discovered in 1905 by Albert Einstein." /></a>
-   
+ - In physics, the mass-energy equivalence is stated  by the equation
+   <a href="https://www.codecogs.com/eqnedit.php?latex=$E=mc^2$" target="_blank"><img src="https://latex.codecogs.com/svg.latex?$E=mc^2$" title="$E=mc^2$" /></a>, discovered in 1905 by Albert Einstein.
 
 
 ```
